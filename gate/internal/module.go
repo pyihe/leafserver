@@ -1,10 +1,10 @@
 package internal
 
 import (
-	"github.com/name5566/leaf/gate"
-	"server/conf"
-	"server/game"
-	"server/msg"
+	"github.com/pyihe/leaf/gate"
+	"github.com/pyihe/leafsearver/conf"
+	"github.com/pyihe/leafsearver/game"
+	"github.com/pyihe/leafsearver/msg"
 )
 
 type Module struct {

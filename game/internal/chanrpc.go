@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"github.com/name5566/leaf/gate"
+	"github.com/pyihe/leaf/gate"
 )
 
 func init() {

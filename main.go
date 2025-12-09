@@ -1,12 +1,13 @@
 package main
 
 import (
-	"github.com/name5566/leaf"
-	lconf "github.com/name5566/leaf/conf"
-	"server/conf"
-	"server/game"
-	"server/gate"
-	"server/login"
+	"github.com/pyihe/leaf"
+	lconf "github.com/pyihe/leaf/conf"
+
+	"github.com/pyihe/leafsearver/conf"
+	"github.com/pyihe/leafsearver/game"
+	"github.com/pyihe/leafsearver/gate"
+	"github.com/pyihe/leafsearver/login"
 )
 
 func main() {

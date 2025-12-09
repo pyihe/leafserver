@@ -1,7 +1,7 @@
 package game
 
 import (
-	"server/game/internal"
+	"github.com/pyihe/leafsearver/game/internal"
 )
 
 var (

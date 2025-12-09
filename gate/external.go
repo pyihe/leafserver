@@ -1,7 +1,7 @@
 package gate
 
 import (
-	"server/gate/internal"
+	"github.com/pyihe/leafsearver/gate/internal"
 )
 
 var (
